@@ -201,3 +201,5 @@ Jay Vasant Rande
 - 💼 LinkedIn: https://www.linkedin.com/in/jay-rande/
 
 ---
+## 14. Snapshot of Dashboard
+https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg
