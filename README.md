@@ -202,4 +202,4 @@ Jay Vasant Rande
 
 ---
 ## 14. Snapshot of Dashboard
-Example: ![Dashboard_Preview].(https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg).
+![Overall Dashboard](images/overall-dashboard.png)
