@@ -202,4 +202,8 @@ Jay Vasant Rande
 
 ---
 ## 14. Snapshot of Dashboard
-![Overall Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg)
+![Overall Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_1.jpeg)
+![Vehicle type Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_2.jpeg).
+![Revenue Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_3.jpeg).
+![Cancellation Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_4.jpeg).
+![Rating Analysis Dashboard](https://github.com/TechByJay/OLA_Ride_Analytics_and_Business_Intelligence_Dashboard/blob/main/snapshot_of_dashboard_5.jpeg).
